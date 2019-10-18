@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Demangle.cpp \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Demangle.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/FBString.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Portability.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/CPortability.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Traits.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Utility.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/yauhenpenkin/Documents/Projects/eva-vs-material-sample/ios/Pods/Folly/folly/detail/Demangle.h
