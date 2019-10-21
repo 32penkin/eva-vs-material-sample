@@ -13,7 +13,6 @@ import {
   LayoutElement,
   withStyles,
   ThemedComponentProps,
-  StyleType,
   Icon,
   IconElement,
   OverflowMenu,
@@ -23,7 +22,7 @@ import { ValidationInput } from './validationInput.component';
 import {
   EmailValidator,
   PasswordValidator,
-} from './validators';
+} from '../core/validators';
 
 interface ComponentProps {
   email: string | undefined;
@@ -80,6 +79,7 @@ class LoginComponent extends React.Component<Props, State> {
             onSelect={this.props.onMenuItemPress}
             data={this.props.menuData}>
             <TouchableOpacity
+              activeOpacity={0.9}
               style={themedStyle.menuButton}
               onPress={this.setMenuVisible}>
               {this.renderMenuIcon()}
@@ -157,5 +157,5 @@ export const Login = withStyles(LoginComponent, (theme: ThemeType) => ({
   },
   checkbox: {
     marginTop: 6,
-  }
+  },
 }));
