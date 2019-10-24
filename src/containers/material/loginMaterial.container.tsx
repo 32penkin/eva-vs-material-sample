@@ -10,8 +10,8 @@ import {
 } from '@eva-design/eva';
 import { default as materialThemeShell } from './material.theme.json';
 import { default as materialMappingShell } from './material.mapping.json';
-import { EvaIconsPack } from '@ui-kitten/eva-icons';
 import { Login } from '../../components/login.component';
+import { MaterialIconsPack } from './material-icons';
 
 const materialTheme: ThemeType = {
   ...evaLightTheme,
@@ -50,7 +50,7 @@ export class LoginMaterialContainer extends React.Component<any, State> {
   public render(): React.ReactNode {
     return (
       <React.Fragment>
-        <IconRegistry icons={EvaIconsPack}/>
+        <IconRegistry icons={MaterialIconsPack}/>
         <ApplicationProvider
           mapping={mapping}
           theme={materialTheme}>

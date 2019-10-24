@@ -62,6 +62,7 @@ class LoginComponent extends React.Component<Props, State> {
       <Icon
         name='menu'
         {...themedStyle.menuIcon}
+        style={themedStyle.menuIcon}
       />
     );
   };

@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>15F7DFFD-133F-4F20-8B67-FE06DD89AF9B</key>
+		<key>941CFF6F-7B5F-46D2-8C0D-5F72B59158C0</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,9 +15,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>15F7DFFD-133F-4F20-8B67-FE06DD89AF9B.xcactivitylog</string>
+			<string>941CFF6F-7B5F-46D2-8C0D-5F72B59158C0.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>MyApp project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,15 +27,15 @@
 			<key>signature</key>
 			<string>Building workspace MyApp with scheme MyApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>593074311.48635602</real>
+			<real>593340593.05590606</real>
 			<key>timeStoppedRecording</key>
-			<real>593074316.58622599</real>
+			<real>593340599.67780006</real>
 			<key>title</key>
 			<string>Building workspace MyApp with scheme MyApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>15F7DFFD-133F-4F20-8B67-FE06DD89AF9B</string>
+			<string>941CFF6F-7B5F-46D2-8C0D-5F72B59158C0</string>
 		</dict>
-		<key>E65EEAB6-582E-47A4-9033-5DF71DB0A192</key>
+		<key>D69A826F-AE73-4EAD-9A6F-EFFC4E2AFA76</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -44,9 +44,9 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E65EEAB6-582E-47A4-9033-5DF71DB0A192.xcactivitylog</string>
+			<string>D69A826F-AE73-4EAD-9A6F-EFFC4E2AFA76.xcactivitylog</string>
 			<key>highLevelStatus</key>
-			<string>S</string>
+			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
 			<string>MyApp project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -56,13 +56,13 @@
 			<key>signature</key>
 			<string>Building workspace MyApp with scheme MyApp and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>593073373.36522102</real>
+			<real>593445716.16873205</real>
 			<key>timeStoppedRecording</key>
-			<real>593073374.55465305</real>
+			<real>593445718.68478203</real>
 			<key>title</key>
 			<string>Building workspace MyApp with scheme MyApp and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>E65EEAB6-582E-47A4-9033-5DF71DB0A192</string>
+			<string>D69A826F-AE73-4EAD-9A6F-EFFC4E2AFA76</string>
 		</dict>
 	</dict>
 </dict>
